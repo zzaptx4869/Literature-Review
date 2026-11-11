@@ -1,50 +1,59 @@
 <table>
 <thead>
   <tr>
-    <th align="left" width="300">Trial Name<br>(Study, Year)</th>
-    <th align="left" width="300">Eligible Patient Population</th>
+    <th align="left" width="200">Trial Name, <br> Trial Duration<br>(Reference)</th>
+    <th align="left" width="350">Main Eligibility Criteria</th>
     <th align="left" width="300">Treatment Arms</th>
-    <th align="left" width="150">Trial Duration</th>
-    <th align="left" width="300">Adherence</th>
-    <th align="left" width="200">Primary Endpoint</th>
+    <th align="left" width="300">Primary Endpoint</th>
+    <th align="left" width="350">Treatment Adherence</th>
+    
   </tr>
 </thead>
    
 <tbody>
+
+  
+  <!-- exenatide -->
   <tr>
-    <td>Exenatide</td>
+    <th colspan="6" align="left">
+     💉 &nbsp; Exenatide
+    </th>
   </tr>
+  
   <tr>
-    <td>AMIGO-1<br><a href="https://pubmed.ncbi.nlm.nih.gov/15855572/">(DeFronzo et al, 2005)</a></td> 
-    <!-- <td>AMIGO-1<br>(DeFronzo et al, 2005)</td> -->
-    <td>Adult patients with inadequately controlled T2DM (HbA1c 7.1-11.0%) on metformin monotherapy (≥ 1500 mg qd) for ≥ 3 months</td>
-    <td>A: Exenatide 10 ug bid <br>(N=113)<br><br>
-        B: Exenatide 5 ug bid <br>(N=110)<br><br>
-        C: Placebo <br>(N=113)
+    <td> AMIGO-1, <br> 30 weeks <br>
+         <a href="https://pubmed.ncbi.nlm.nih.gov/15855572/">(DeFronzo et al, 2005)</a> <br>
+         <!-- <sub>Trial duration: 30 weeks</sub> -->
+    </td> 
+    <td> a. Adult patients with T2D treated with metformin monotherapy ≥ 3 months <br> <br>
+         b. HbA1c 7.1-11.0%
     </td>
-    <td>30 weeks</td>
-    <td>Treatment completion through week 30 with ≥ 80% of injections:<br><br>
-         A: 91%<br>
-         B: 90%<br>
-         C: 89%<br>
+    <td>A: Exenatide 10µg bid <br>
+        B: Exenatide 5µg bid <br>
+        C: Placebo 
     </td>
     <td>Change in HbA1c from baseline to week 30</td>
+    <td>Receive ≥ 80% of injections through week 30:<br> <br>
+         A: 91%, B: 90%, C: 89%
+    </td>
+   
   </tr>
 
  <tr>
-    <td>AMIGO-2<br>(Buse et al, 2004)</td>
-    <td>Adult patients with inadequately controlled T2DM (HbA1c 7.1-11.0%) on sulfonylurea monotherapy (maximally effective dose equivalent to glimepiride 4 mg qd) for ≥ 3 months</td>
-    <td>A: Exenatide 10 ug bid <br>(N=129)<br><br>
-        B: Exenatide 5 ug bid <br>(N=125)<br><br>
-        C: Placebo <br>(N=123)
-    </td>
-    <td>30 weeks</td>
-    <td>Treatment completion through week 30 with ≥ 80% of injections:<br><br>
-         A: 69%<br>
-         B: 74%<br>
-         C: 59%<br>
+    <td>AMIGO-2,<br>30 weeks <br>
+         <a href="https://pubmed.ncbi.nlm.nih.gov/15504997/">(Buse et al, 2004)</a> <br>
+        </td>
+    <td> a. Adult patients with T2D treated with sulfonylurea monotherapy for ≥ 3 months <br> <br>
+         b. HbA1c 7.1-11.0%
+    <td>A: Exenatide 10µg bid <br>
+        B: Exenatide 5µg bid <br>
+        C: Placebo 
     </td>
     <td>Change in HbA1c from baseline to week 30</td>
+    <td>Receive ≥ 80% of injections through week 30:<br> <br>
+         A: 69%, B: 74%, C: 59%
+    </td>
+    
   </tr>
 
   
