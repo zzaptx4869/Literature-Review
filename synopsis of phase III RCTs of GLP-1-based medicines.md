@@ -1,6 +1,6 @@
-  <!-- exenatide -->
+<!-- ==================== EXENATIDE (Byetta) ==================== -->
 <details open>
-<summary><h3>💉 &nbsp; Exenatide</h3></summary>
+<summary><h3>💉 &nbsp; Exenatide (Byetta) </h3></summary>
   
 <table>
 <thead>
@@ -23,15 +23,16 @@
          <!-- <sub>Trial duration: 30 weeks</sub> -->
     </td> 
     <td> a. Adult patients with T2D treated with metformin monotherapy ≥ 3 months <br> <br>
-         b. HbA1c 7.1-11.0%
+         b. HbA1c 7.1-11.0%  <br> <br>
+         c. No use of other antidiabetic drugs within past 3 months
     </td>
-    <td>A: Exenatide 10µg bid <br>
-        B: Exenatide 5µg bid <br>
+    <td>A: Exenatide 5µg bid <br>
+        B: Exenatide 10µg bid <br>
         C: Placebo 
     </td>
     <td>Change in HbA1c from baseline to week 30</td>
     <td>Receive ≥ 80% of injections through week 30:<br> <br>
-         A: 91%, B: 90%, C: 89%
+        A: 90%, B: 91%, C: 89%
     </td> 
   </tr>
   <!-- ----------------------------------------------------------------------- -->
@@ -40,15 +41,16 @@
          <a href="https://pubmed.ncbi.nlm.nih.gov/15504997/">(Buse et al, 2004)</a> <br>
     </td>
     <td> a. Adult patients with T2D treated with sulfonylurea monotherapy for ≥ 3 months <br> <br>
-         b. HbA1c 7.1-11.0%
+         b. HbA1c 7.1-11.0% <br> <br>
+         c. No use of other antidiabetic drugs within past 3 months
     </td>
-    <td>A: Exenatide 10µg bid <br>
-        B: Exenatide 5µg bid <br>
+    <td>A: Exenatide 5µg bid <br>
+        B: Exenatide 10µg bid <br>
         C: Placebo 
     </td>
     <td>Change in HbA1c from baseline to week 30</td>
     <td>Receive ≥ 80% of injections through week 30:<br> <br>
-         A: 69%, B: 74%, C: 59%
+        A: 74%, B: 69%, C: 59%
     </td>  
   </tr>
   <!-- ----------------------------------------------------------------------- -->
@@ -57,15 +59,16 @@
          <a href="https://pubmed.ncbi.nlm.nih.gov/15855571/">(Kendall et al, 2005)</a> <br>
     </td>
     <td> a. Adult patients with T2D treated with a combination of metformin and sulfonylurea for ≥ 3 months <br> <br>
-         b. HbA1c 7.5-11.0%
+         b. HbA1c 7.5-11.0% <br> <br>
+         c. No use of other antidiabetic drugs within past 3 months
     </td>
-    <td>A: Exenatide 10µg bid <br>
-        B: Exenatide 5µg bid <br>
+    <td>A: Exenatide 5µg bid <br>
+        B: Exenatide 10µg bid <br>
         C: Placebo 
     </td>
     <td>Change in HbA1c from baseline to week 30</td>
     <td>Receive ≥ 80% of injections through week 30:<br> <br>
-         A: 78%, B: 84%, C: 75%
+        A: 84%, B: 78%, C: 75%
     </td>  
   </tr>
   <!-- ----------------------------------------------------------------------- -->
@@ -76,9 +79,9 @@
 <!-- ==================================================================================================== -->
 
   
-<!-- ==================== SEMAGLUTIDE SECTION ==================== -->
+<!-- ==================== SEMAGLUTIDE (Ozempic) ==================== -->
 <details open>
-<summary><h3>💉 &nbsp; Semaglutide</h3></summary>
+<summary><h3>💉 &nbsp; Semaglutide (Ozempic)</h3></summary>
 
 <table>
 <thead>
@@ -97,7 +100,8 @@
          <a href="https://pubmed.ncbi.nlm.nih.gov/28110911/">(Sorli et al, 2017)</a> <br>
     </td>
     <td> a. Adult patients with T2D treated with diet and exercise alone for ≥ 30 days <br> <br>
-         b. HbA1c 7.0-10.0%
+         b. HbA1c 7.0-10.0% <br> <br>
+         c. No use of antidiabetic drugs within past 3 months
     </td>
     <td>A: Semaglutide 0.5mg qw <br>
         B: Semaglutide 1.0mg qw <br>
@@ -116,7 +120,8 @@
          <a href="https://pubmed.ncbi.nlm.nih.gov/28385659/">(Ahrén et al, 2017)</a> <br>
     </td>
     <td> a. Adult patients with T2D treated with metformin, thiazolidinediones, or both for ≥ 3 months <br> <br>
-         b. HbA1c 7.0-10.5%
+         b. HbA1c 7.0-10.5% <br> <br>
+         c. No use of other antidiabetic drugs within past 3 months
     </td>
     <td>A: Semaglutide 0.5mg qw <br>
         B: Semaglutide 1.0mg qw <br>
@@ -134,7 +139,8 @@
          <a href="https://pubmed.ncbi.nlm.nih.gov/29246950/">(Ahmann et al, 2018)</a> <br>
     </td>
     <td> a. Adult patients with T2D treated with one or two oral antidiabetic drugs (metformin, sulfonylureas, or thiazolidinediones) for ≥ 3 months <br> <br>
-         b. HbA1c 7.0-10.5%
+         b. HbA1c 7.0-10.5% <br> <br>
+         c. No use of other antidiabetic drugs within past 3 months
     </td>
     <td>A: Semaglutide 1.0mg qw <br>
         B: Exenatide ER 2.0mg qw
@@ -146,13 +152,13 @@
   </tr>
   <!-- ----------------------------------------------------------------------- -->
 
-
    <tr>
     <td>SUSTAIN-4,<br>30 weeks <br>
          <a href="https://pubmed.ncbi.nlm.nih.gov/28344112/">(Aroda et al, 2017)</a> <br>
     </td>
     <td> a. Adult patients with T2D treated with metformin alone or in combination with a sulfonylurea for ≥ 3 months <br> <br>
-         b. HbA1c 7.0-10.0%
+         b. HbA1c 7.0-10.0% <br> <br>
+         c. No use of other antidiabetic drugs within past 3 months
     </td>
     <td>A: Semaglutide 0.5mg qw <br>
         B: Semaglutide 1.0mg qw <br>
@@ -165,7 +171,24 @@
   </tr>
   <!-- ----------------------------------------------------------------------- -->
 
-  
+  <tr>
+    <td>SUSTAIN-5,<br>30 weeks <br>
+         <a href="https://pubmed.ncbi.nlm.nih.gov/29688502/">(Rodbard et al, 2018)</a> <br>
+    </td>
+    <td> a. Adult patients with T2D treated with basal insulin therapy alone or in combination with metformin for ≥ 3 months <br> <br>
+         b. HbA1c 7.0-10.0% <br> <br>
+         c. No use of other antidiabetic drugs within past 3 months
+    </td>
+    <td>A: Semaglutide 0.5mg qw <br>
+        B: Semaglutide 1.0mg qw <br>
+        C: Placebo
+    </td>
+    <td>Change in HbA1c from baseline to week 30</td>
+    <td>Completed treatment through week 30:<br> <br>
+         A: 89%, B: 87%, C: 90%
+    </td>  
+  </tr>
+  <!-- ----------------------------------------------------------------------- -->
 </tbody>
 </table>
 
